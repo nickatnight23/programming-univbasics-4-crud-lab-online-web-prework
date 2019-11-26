@@ -25,6 +25,6 @@ def add_element_to_start_of_array (array, element)
    array.shift
  end
  
- def retrieve_element_from_index(array, 1)
+ def retrieve_element_from_index(array, one)
    array.first
  end
